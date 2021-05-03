@@ -18,4 +18,5 @@ Generate an API Key and enable it.
 Install the CCXT and schedule libraries
 
 ```pip install CCXT```
+
 ```pip install schedule```
